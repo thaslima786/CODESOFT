@@ -1,11 +1,13 @@
-# College Assistant Chatbot
-This is a rule-based chatbot created using Python Tkinter.
-Features:
-- GUI interface
-- User name memory
-- College information responses
-- Admission and hostel details
-
-Technology Used:
+# Tic-Tac-Toe AI
+A Tic-Tac-Toe game developed using Python and Tkinter.
+## Features
+- Human vs AI
+- Easy Difficulty
+- Hard Difficulty
+- Score Tracking
+- Colorful GUI
+- Sound Effects
+- Restart Option
+## Technologies Used
 - Python
 - Tkinter
